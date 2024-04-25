@@ -9,5 +9,7 @@ Build and Deploy an advanced Travel Companion Application using Google Maps. Wit
 Setup: run ```npm i && npm start``` to start the development server
 
 For New version of node:
+
 first run "set NODE_OPTIONS=--openssl-legacy-provider" to solve digital envelope routines
+
 then run ```npm i && npm start``` to start the development server
