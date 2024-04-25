@@ -6,7 +6,7 @@ Build and Deploy an advanced Travel Companion Application using Google Maps. Wit
 [RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 
-Setup: run ```npm i && npm start``` to start the development server
+Setup: run ```npm install && npm start``` to start the development server
 
 For New version of node:
 
