@@ -29,5 +29,9 @@ export default makeStyles((theme) => ({
   toolbar: {
     display: 'flex', justifyContent: 'space-between',
   },
+  a_tag: {
+    textDecoration: 'none', // Remove default underline
+    color: 'inherit', // Inherit color from parent
+  },
 }));
 
